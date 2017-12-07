@@ -34,8 +34,8 @@ Depot::Application.configure do
     port:           587,
     domain:         "localhost",
     authentication: "plain",
-    user_name:      "nakul.sv@gmail.com",
-    password:       "16Fe89Ser",
+    user_name:      "sergey12vn@gmail.com",
+    password:       "89Fe16ch",
     enable_starttls_auto: true
   }
 end
